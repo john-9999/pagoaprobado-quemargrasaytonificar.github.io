@@ -1,0 +1,39 @@
+body{
+    background-color: #111;
+    font-family: sans-serif;
+}
+
+a{
+ text-decoration: none;
+ color:#222
+}
+
+h1{
+    color: #fff;
+}
+
+h2{
+    color:#fff;
+}
+
+.b-subtitulo{
+    color: aqua;
+}
+
+.button-2 {
+    position: relative;
+    background-color: #fff;
+    border: none;
+    font-size: 28px;
+    color: #222;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: solid #0bdf12;
+    border-radius: 10px;
+    border-style: hidden;
+    margin: 20px;
+    bottom: -50px;
+  }
+  
